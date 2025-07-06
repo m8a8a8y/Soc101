@@ -118,7 +118,7 @@ This course builds a strong foundation for SOC roles and prepares you for entry-
 
 ---
 
-**Author:** Mohammad Abu Yahya  
+**Author:** m8a8a8y  
 **Course:** SOC 101 - Security Operations Fundamentals  
 **Status:** 🟢 In Progress
 
