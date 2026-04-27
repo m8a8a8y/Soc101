@@ -30,9 +30,6 @@ By the end of this course, you will be able to:
 6. **Endpoint Detection and Response (EDR)**
 7. **Log Analysis and Management**
 8. **Security Information and Event Management (SIEM)**
-9. **Threat Intelligence Integration**
-10. **Digital Forensics Techniques**
-11. **Incident Response Procedures**
 
 ---
 
